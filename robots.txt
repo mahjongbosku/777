@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahjongbosku.github.io/777/sitemap.xml
